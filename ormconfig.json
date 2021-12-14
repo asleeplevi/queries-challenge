@@ -1,6 +1,6 @@
 {
-  "username": "postgres",
-  "password": "docker",
+  "username": "docker-user",
+  "password": "ignite",
 
   "type": "postgres",
   "name": "default",
@@ -13,3 +13,4 @@
     "migrationsDir": "./src/database/migrations"
   }
 }
+
